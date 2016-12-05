@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Custompost-rsses on Grid Side</title>
-    <link>https://github.com/kueikuei/Myblog/custompost/index.xml</link>
+    <link>https://kueikuei.github.io/Myblog/custompost/index.xml</link>
     <description>Recent content in Custompost-rsses on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
     <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://github.com/kueikuei/Myblog/custompost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kueikuei.github.io/Myblog/custompost/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Info</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/info/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/info/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/info/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/info/</guid>
       <description>&lt;p&gt;You can optionally set an image in the front matter of a post using
 &lt;code&gt;image = &amp;quot;...&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -23,10 +23,10 @@
     
     <item>
       <title>Redirect</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/redirect/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/redirect/</link>
       <pubDate>Wed, 29 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/redirect/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/redirect/</guid>
       <description>&lt;p&gt;You can optionally set the front matter &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt; to automatically
 redirect the content to another page.&lt;/p&gt;
 </description>
@@ -34,10 +34,10 @@ redirect the content to another page.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/eight/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/eight/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/eight/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/eight/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -50,10 +50,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/eleven/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/eleven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/eleven/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/eleven/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -66,10 +66,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/five/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/five/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/five/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/five/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -82,10 +82,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/four/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/four/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/four/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/four/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -98,10 +98,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/nine/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/nine/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/nine/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/nine/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -114,10 +114,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/one/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/one/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/one/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/one/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -130,10 +130,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/seven/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/seven/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/seven/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/seven/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -146,10 +146,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/six/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/six/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/six/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/six/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -162,10 +162,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/ten/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/ten/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/ten/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/ten/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -178,10 +178,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/three/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/three/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/three/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/three/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -194,10 +194,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/twelve/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/twelve/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/twelve/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/twelve/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
@@ -210,10 +210,10 @@ a diam ullamcorper aliquet at vel ante. Fusce ac lacinia tortor.&lt;/p&gt;
     
     <item>
       <title>One</title>
-      <link>https://github.com/kueikuei/Myblog/custompost/two/</link>
+      <link>https://kueikuei.github.io/Myblog/custompost/two/</link>
       <pubDate>Sat, 25 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/custompost/two/</guid>
+      <guid>https://kueikuei.github.io/Myblog/custompost/two/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vulputate
 vehicula mi id fringilla. Interdum et malesuada fames ac ante ipsum primis in
 faucibus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Customproject-rsses on Grid Side</title>
-    <link>https://github.com/kueikuei/Myblog/customproject/index.xml</link>
+    <link>https://kueikuei.github.io/Myblog/customproject/index.xml</link>
     <description>Recent content in Customproject-rsses on Grid Side</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <copyright>Copyright &amp;#169; by Your Name</copyright>
-    <atom:link href="https://github.com/kueikuei/Myblog/customproject/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kueikuei.github.io/Myblog/customproject/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Video</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/video/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/video/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/video/</guid>
       <description>&lt;p&gt;Videos can be provided via:&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;video_mp4 = &amp;quot;/vid/vid_480x320.mp4&amp;quot;
@@ -38,10 +38,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Another Car</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/anothercar/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/anothercar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/anothercar/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/anothercar/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -49,10 +49,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Another Cup</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/anothercup/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/anothercup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/anothercup/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/anothercup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -60,10 +60,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Car</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/car/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/car/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/car/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/car/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -71,10 +71,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Cup</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/cup/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/cup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/cup/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/cup/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -82,10 +82,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Drone</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/anotherdrone/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/anotherdrone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/anotherdrone/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/anotherdrone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -93,10 +93,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Drone</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/drone/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/drone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/drone/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/drone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -104,10 +104,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Food</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/anotherfood/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/anotherfood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/anotherfood/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/anotherfood/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -115,10 +115,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Food</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/food/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/food/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/food/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/food/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -126,10 +126,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Jars</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/anotherjars/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/anotherjars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/anotherjars/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/anotherjars/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -137,10 +137,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Jars</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/jars/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/jars/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/jars/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/jars/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -148,10 +148,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Phone</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/anotherphone/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/anotherphone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/anotherphone/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/anotherphone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
@@ -159,10 +159,10 @@ support HTML5 video.&lt;/p&gt;
     
     <item>
       <title>Phone</title>
-      <link>https://github.com/kueikuei/Myblog/customproject/phone/</link>
+      <link>https://kueikuei.github.io/Myblog/customproject/phone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/kueikuei/Myblog/customproject/phone/</guid>
+      <guid>https://kueikuei.github.io/Myblog/customproject/phone/</guid>
       <description>&lt;p&gt;Project content would go here. You can also redirect using the front matter
 &lt;code&gt;redirect = &amp;quot;url&amp;quot;&lt;/code&gt;.&lt;/p&gt;
 </description>
